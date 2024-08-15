@@ -17,5 +17,4 @@ public class logica {
             System.out.println("es menor de edad");
         }
     }
-    
 }
