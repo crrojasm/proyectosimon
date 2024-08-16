@@ -6,6 +6,7 @@ public class ifelse {
         System.out.println("Condicionales");
 
 
+        
         Scanner lectura = new Scanner (System.in);
         lectura.close();
         System.out.println(" ");
