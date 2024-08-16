@@ -7,7 +7,7 @@ public class ifelse {
 
 
         Scanner lectura = new Scanner (System.in);
-
+        lectura.close();
         System.out.println(" ");
         System.out.println("Por favor ingrese su edad: ");
         int edad = lectura.nextInt();
